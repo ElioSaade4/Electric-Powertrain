@@ -1,2 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<Info File="models/Motor Control/MotorControl.slx" GroupUUID="c42b2e11-3da5-4f4f-9462-e1b81d883203" Icon="" Name="Motor Control" Type="Basic" Visible="1"/>
+<Info File="models/MotorControl.slx" GroupUUID="c42b2e11-3da5-4f4f-9462-e1b81d883203" Icon="" Name="Motor Control" Type="Basic" Visible="1"/>
